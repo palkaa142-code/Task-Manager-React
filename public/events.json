@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EVT-101",
+    "name": "Build Your First Robot",
+    "date": "2026-11-12",
+    "category": "Workshop",
+    "description": "Work in small teams to assemble and program a beginner-friendly robot with guidance from the robotics committee.",
+    "venue": "Innovation Lab, Block A",
+    "capacity": 40,
+    "registrations": 0
+  },
+  {
+    "id": "EVT-102",
+    "name": "Inter-College Coding Sprint",
+    "date": "2026-11-20",
+    "category": "Competition",
+    "description": "Solve practical programming challenges, collaborate with your team, and compete for the committee's annual coding trophy.",
+    "venue": "Computer Centre",
+    "capacity": 80,
+    "registrations": 0
+  },
+  {
+    "id": "EVT-103",
+    "name": "Careers in Emerging Technology",
+    "date": "2026-11-28",
+    "category": "Seminar",
+    "description": "Hear alumni and industry speakers share insights on career paths in AI, clean energy, and product engineering.",
+    "venue": "Main Auditorium",
+    "capacity": 120,
+    "registrations": 0
+  }
+]
